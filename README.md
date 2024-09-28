@@ -15,6 +15,7 @@ Key Features:
 5.Deployment: Optionally deploy the sentiment analysis model as a web app using Flask or Streamlit for real-time sentiment analysis on new reviews.
 
 Tech Stack:
+
 1.Python (Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn)
 
 2.Machine Learning (Linear Regression, Logistic Regression, Naive Bayes, )
