@@ -16,6 +16,9 @@ Key Features:
 
 Tech Stack:
 1.Python (Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn)
-2.Machine Learning (Logistic Regression, Naive Bayes, SVM)
+
+2.Machine Learning (Linear Regression, Logistic Regression, Naive Bayes, )
+
 3.NLP (Tokenization, Stop-word Removal, Stemming)
+
 4.Optional: Flask/Streamlit for deployment
