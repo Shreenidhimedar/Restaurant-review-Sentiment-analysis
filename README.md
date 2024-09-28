@@ -1,4 +1,5 @@
 Restaurant Review Sentiment Analysis
+
 This project aims to analyze customer reviews for restaurants and determine the sentiment behind them (positive, negative, or neutral). By applying Natural Language Processing (NLP) techniques and machine learning models, this analysis helps restaurants understand customer feedback and improve their services.
 
 Key Features:
