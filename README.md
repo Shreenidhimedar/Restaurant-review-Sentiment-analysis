@@ -6,7 +6,7 @@ Key Features:
 
 1.Data Preprocessing: Clean and preprocess textual data, including tokenization, stop-word removal, and stemming/lemmatization.
 
-2.Sentiment Classification: Use classification algorithms like Logistic Regression, Naive Bayes, or Support Vector Machines (SVM) to classify review sentiments.
+2.Sentiment Classification: Use classification algorithms like Linear Regression, Logistic Regression, Naive Bayes to classify review sentiments.
 
 3.Visualization: Generate visualizations such as word clouds and sentiment distribution charts to provide insights into customer opinions.
 
